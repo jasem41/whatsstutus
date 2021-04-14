@@ -3,6 +3,7 @@
 
 	$set = array('erorr'=>'false',
 	              'app_id' => 'ca-app-pub-3940256099942544~334751171',
+				   'open_app'=>'ca-app-pub-3940256099942544/3419835294',
 				  'bannar_id' => 'ca-app-pub-3940256099942544/6300978111',
 				  'intersturial_id'=>'ca-app-pub-3940256099942544/1033173712',
 				  'native_id'=>'ca-app-pub-3940256099942544/2247696110',
