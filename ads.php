@@ -2,7 +2,7 @@
 
 
 	$set = array('erorr'=>'false',
-	              'app_id' => 'ca-app-pub-3940256099942544~334751171',
+	              'app_id' => 'ca-app-pub-5590116308722088~2463806846',
 				   'open_app'=>'ca-app-pub-3940256099942544/3419835294',
 				  'bannar_id' => 'ca-app-pub-5590116308722088/1722065653',
 				  'intersturial_id'=>'ca-app-pub-5590116308722088/4623561166',
